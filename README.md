@@ -105,7 +105,7 @@ Sign in to your google cloud account and go to the console.
 
 * Click the `ssh` button under the `connection` section to connect the terminal. 
 
-## How to install [Java server](https://github.com/ZachArani/RandNumJavaServerVM) <a name="appjava"></a>
+## How to install [Java server](https://github.com/ZachArani/RandNumJavaServerVM) <a name="vmjava"></a>
 ### Installation
 On an Ubuntu system run: `sudo apt-get install tomcat8`. If you are on another **nix* based system use your package manager of choice or download the source code from [Apache's website](https://tomcat.apache.org/download-80.cgi). This will all install Java and other dependencies if not already installed.
 
@@ -158,7 +158,7 @@ The server can be controlled via the ubuntu `service` command. Here are some use
 `sudo service tomcat8 restart`: Restart server
 `sudo service tomcat8 status`: Get current server status
 
-## How to install [Python server](https://github.com/yasharAhari/Random_num_VM) <a name="apppy"></a>
+## How to install [Python server](https://github.com/yasharAhari/Random_num_VM) <a name="vmpy"></a>
 
 ### installing required software
 
